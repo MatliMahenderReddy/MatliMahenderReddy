@@ -70,12 +70,9 @@ In this project, I handle both the front-end and back-end development, ensuring 
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=MatliMahenderReddy&show_icons=true&theme=radical" alt="Matli Mahender Reddy's GitHub stats">
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatliMahenderReddy&theme=radical" alt="GitHub Streak Stats">
-</p>
+</div>
 
 Thanks for visiting my profile! Have a great day! 😄
