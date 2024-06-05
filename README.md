@@ -3,10 +3,10 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="300" height="300">
 </p>
 
- Full Stack Developer
+## Full Stack Developer
 -------------------------
 
-🚀 **A Seasoned Professional In Software Engineering and  Full Stack Developer** with a certification in Full Stack Development from JSpiders. With almost a year of experience, I specialize in implementing high-performance software solutions using Java and cutting-edge web technologies. Proficient in crafting scalable web applications and robust RESTful APIs, my expertise lies in leveraging the Spring Framework and associated tools. With a keen eye for detail and a commitment to excellence, I am driven to create attractive, user-centric solutions that seamlessly blend form and function. Eager to contribute my skills to innovative projects and keen on staying ahead in the dynamic world of web development.
+🚀 **Experienced Software Engineer and Full Stack Developer** with a certification from JSpiders. With almost a year of experience, I specialize in building high-performance software using React and modern web technologies. I'm skilled at creating scalable web applications and strong RESTful APIs with tools like Redux, Redux-Saga, email integrations, sockets, and webhooks. I focus on making user-friendly solutions that look good and work well. I'm eager to work on innovative projects and stay current in web development.
 
 * 🌍 Based in India
 * ✉️ Contact me at [matlimahenderreddy@gmail.com](mailto:matlimahenderreddy@gmail.com)
@@ -36,12 +36,12 @@
 ### Tools & Technologies
 - **Web Development:** Responsive Design, RESTful APIs
 - **Version Control:** Git, GitHub
-- **Build Tools:** Visual Studio,Eclipse
+- **Build Tools:** Visual Studio, Eclipse
 
 ## 🚀 Current Project
 
 I am currently working on a comprehensive project utilizing the following technologies:
-- **Front-end:** React.js, HTML, CSS, JavaScript
+- **Front-end:** React.js,  Bootstrap, Reactstrap
 - **Back-end:** Node.js, Express.js
 - **Database:** MongoDB
 
